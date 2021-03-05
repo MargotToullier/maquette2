@@ -1,0 +1,78 @@
+ul {
+    display: flex;
+    margin:auto;
+    list-style-type: none;
+}
+
+li {
+    margin: 10px;
+    padding: 0 15px;
+}
+
+nav {
+    background-color: grey;
+    
+}
+
+.carousel {
+    
+    
+    background-color: darkgrey;
+    height: 200px;
+    
+}
+
+.title {
+    
+    text-align: center;
+    font-weight:400px;
+    font-weight: bold;
+}
+
+
+
+article {
+    
+    display: inline-block;
+    width: 33%;
+    background-color: grey;
+    height: 300px;
+}
+
+
+
+
+.ContactUs {
+    border-top: 1px solid black;
+    padding-top: 10px;
+   
+}
+
+input {
+    display: block;
+    text-align: center;
+    width: 90%;
+    margin-bottom:5px;
+    margin-right :auto;
+    margin-left:auto;
+}
+
+textarea {
+    margin-left:50%;
+    
+}
+
+.fellows {
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+textarea {
+    display: block;
+    text-align: center;
+    width: 90%;
+    margin-bottom:5px;
+    margin-right :auto;
+    margin-left:auto;
+}
